@@ -1,4 +1,4 @@
-1. Chạy lệnh composer update. 
+1. Chạy lệnh composer install. 
 2. Chạy lệnh php artisan serve.
 3. Chạy lệnh php artisan command:createPermissionRoutes để lưu các Route vào DB.
 4. Chạy lệnh php artisan command:createRoles để tạo các quyền Admin,..
